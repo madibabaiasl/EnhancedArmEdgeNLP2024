@@ -1,2 +1,2 @@
-# IROS2024
-This repository is the accompanying code and data for our IROS 2024 paper
+# Enhanced Robot Arm at the Edge with NLP and Vision Systems
+
