@@ -8,23 +8,12 @@ This repository houses the code and data for our project that integrates edge co
 
 To use the system, follow these steps:
 
-- System Setup and Configuration: Ensure the robotic arm and vision system are correctly set up and connected to your computing environment. Adjust the system configuration files to match your setup, including ROS (Robot Operating System) commands and vision system parameters. A complete guide can be found here: https://github.com/madibabaiasl/modern-robotics-course
+- System Setup and Configuration: Ensure the robotic arm and vision system are correctly set up and connected to your computing environment. Adjust the system configuration files to match your setup, including ROS (Robot Operating System) commands and vision system parameters. A complete guide can be found here: [https://github.com/madibabaiasl/modern-robotics-course](https://github.com/madibabaiasl/modern-robotics-course/wiki)https://github.com/madibabaiasl/modern-robotics-course/wiki
 - Execution: 
 
 ## Example Results 
 
 
-<p align="center">
-  <a href="https://github.com/madibabaiasl/IROS2024/assets/118206851/c01d0b9a-b602-4a32-9539-784c1b50063e">
-    <img src="URL_TO_ICON_1" alt="Video 1" width="100" /> <!-- Adjust width as needed -->
-  </a>
-  <a href="https://github.com/madibabaiasl/IROS2024/assets/118206851/c01d0b9a-b602-4a32-9539-784c1b50063e">
-    <img src="URL_TO_ICON_2" alt="Video 2" width="100" /> <!-- Adjust width as needed -->
-  </a>
-  <a href="[URL_TO_VIDEO_3](https://github.com/madibabaiasl/IROS2024/assets/118206851/c01d0b9a-b602-4a32-9539-784c1b50063e)">
-    <img src="URL_TO_ICON_3" alt="Video 3" width="100" /> <!-- Adjust width as needed -->
-  </a>
-</p>
 
 
 
