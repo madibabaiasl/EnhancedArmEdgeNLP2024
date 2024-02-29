@@ -11,5 +11,8 @@ To use the system, follow these steps:
 - System Setup and Configuration: Ensure the robotic arm and vision system are correctly set up and connected to your computing environment. Adjust the system configuration files to match your setup, including ROS (Robot Operating System) commands and vision system parameters. A complete guide can be found here: https://github.com/madibabaiasl/modern-robotics-course
 - Execution: 
 
+## Example Results 
 
+
+https://github.com/madibabaiasl/IROS2024/assets/118206851/75e97c90-5690-4484-bf7c-90830757f86a
 
