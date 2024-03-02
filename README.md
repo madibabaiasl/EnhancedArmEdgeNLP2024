@@ -48,7 +48,9 @@ ros2 launch interbotix_xsarm_perception xsarm_perception.launch.py robot_model:=
 
 In doing so, you should see ROS enabled, and live connection to the robot, ready for exeuction of our code.
 
-Our program is developed with the intention of using one file to test and excute the robot, increasing user friendliness and future modularity. This file is "gptRepeatInput.py". When the robot is connected, ROS enabled, and microphone set up, we can run this file and begin execution. When running the file, you may get a string of 
+Our program is developed with the intention of using one file to test and excute the robot, increasing user friendliness and future modularity. This file is "gptRepeatInput.py". When the robot is connected, ROS enabled, and microphone set up, we can run this file and begin execution. When running the file, you may get a string of "JackShmReadWritePtr" or "ALSA" errors. When this occurs, program operation is not hindered and can be ignored for now, these stem from microphone configuration errors within Linux.
+
+You should now see the robot power up, and the arm move towards the home position. Here, you should see from the terminal if the microphone was able to sucsessfully compile, and if so you can begin to ask the robot a question and seek response. As a baseline setup test, try asking the robot to move right. This example from the paper should have guranteed sucsess -- sucsess here should indicate sucsess of implementation of the robot. Now try other commands and exeuction.
 
 ## Example Results 
 
