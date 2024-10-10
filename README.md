@@ -1,4 +1,4 @@
-# Enhanced Robot Arm at the Edge with NLP and Vision Systems
+# Improving Robotic Arms through Natural Language Processing, Computer Vision, and Edge Computing
 
 <a href="https://github.com/Paskul">Pascal Sikorski</a>, Kaleb Yu, Lucy Billadeau, Flavio Esposito, Hadi Akbarpour, <a href="https://github.com/madibabaiasl">Madi Babaiasl</a>
 
@@ -53,6 +53,7 @@ Our program is developed with the intention of using one file to test and execut
 You should now see the robot power up, and the arm move towards the home position. Here, you should see from the terminal if all modules were able to successfully compile, and if so you can begin to ask the robot a prompt and seek a response. As a baseline setup test, try asking the robot to move right. This example from the paper should have guaranteed success - with success here indicating the success of the implementation of the robot. Now try other commands and their execution.
 
 ## Example Results 
+https://youtu.be/HGY9q5K14ZI
 
 ## Citation (BibTeX)
 
