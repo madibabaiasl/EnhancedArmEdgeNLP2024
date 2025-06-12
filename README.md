@@ -56,6 +56,7 @@ You should now see the robot power up, and the arm move towards the home positio
 https://youtu.be/HGY9q5K14ZI
 
 ## Citation (BibTeX)
+```bash
 @inproceedings{sikorski2025improving,
   title={Improving Robotic Arms Through Natural Language Processing, Computer Vision, and Edge Computing},
   author={Sikorski, Pascal and Yu, Kaleb and Billadeau, Lucy and Esposito, Flavio and AliAkbarpour, Hadi and Babaias, Madi},
