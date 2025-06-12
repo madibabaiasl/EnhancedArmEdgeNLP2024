@@ -65,6 +65,3 @@ https://youtu.be/HGY9q5K14ZI
   year={2025},
   organization={IEEE}
 }
-
-
-
